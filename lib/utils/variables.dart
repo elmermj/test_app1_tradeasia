@@ -1,0 +1,1 @@
+const jwtToken = 'jwt_token';
